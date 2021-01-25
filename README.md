@@ -11,7 +11,10 @@ I created a simple calendar application that allows the user to save events for 
   * [Future Development](#futuredevelopment)
   * [License](#license)
   * [Questions](#questions) 
-  
+
+## Installation: 
+You can "git clone" this repository onto your local machine, and run the HTML file in your web browser. 
+
 ## User Story
 
 ```
