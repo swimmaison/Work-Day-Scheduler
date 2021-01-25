@@ -1,7 +1,17 @@
 # Work-Day-Scheduler
+<img src="https://img.shields.io/badge/Made%20With-HTML-brightgreen/relativePath"> <img src="https://img.shields.io/badge/Made%20With-CSS-yellow/relativePath"> <img src="https://img.shields.io/badge/Made%20With-jQuery-lightgrey/relativePath">
 
+## Description: 
 I created a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
+## Table Of Contents:
+  * [Installation](#installation)
+  * [User Story](#userstory)
+  * [Technologies Used](#technologiesused)
+  * [Future Development](#futuredevelopment)
+  * [License](#license)
+  * [Questions](#questions) 
+  
 ## User Story
 
 ```
@@ -31,3 +41,15 @@ THEN the saved events persist
 The following animation demonstrates the application functionality:
 
 ![day planner demo](./Assets/demo.gif)
+
+## Technologies Used:
+<img src="https://img.shields.io/badge/Made%20With-HTML-brightgreen/relativePath"> <img src="https://img.shields.io/badge/Made%20With-CSS-yellow/relativePath"> <img src="https://img.shields.io/badge/Made%20With-jQuery-lightgrey/relativePath">
+
+## Future Development: 
+Finishing the app adding jQuery functionality
+
+## License: 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Questions: 
+For any additional questions, can be reached through GitHub: Hamza Tanveer (https://github.com/swimmaison)
